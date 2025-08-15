@@ -1,4 +1,3 @@
-# zchen168.github.io
 # Zheyan Chen – Data Analytics & Research Portfolio
 
 Welcome to my portfolio! Here you’ll find selected projects showcasing my work in **data analytics, machine learning, and geospatial research**.

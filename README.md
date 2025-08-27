@@ -12,8 +12,7 @@ Welcome to my portfolio! Here you’ll find selected projects showcasing my work
 ---
 
 ## 🌱 NYC Park Visitor Behavior Under Extreme Heat
-**Description:** GIS-based POI classification, regression analysis, and visualization to assess the effect of extrem## 📈 Startup Investment Analysis
-**Description:** Researched 100+ startups, identified top 8 for investment potential using market sizing, competitive analysis, and Power BI dashboards.  
+**Description:** GIS-based POI classification, regression analysis, and visualization to assess the effect of extrem## 📈 Startup Investment Analysis 
 **Tech Stack:** ArcGIS Pro, Streamlit Dashboard, Python  
 [View Project](https://github.com/julianne168/NYC-parks-extreme-heat-behavior)
 
@@ -41,7 +40,7 @@ Welcome to my portfolio! Here you’ll find selected projects showcasing my work
 ---
 
 ## 🏙 Smart City Transport Mode Choice Prediction 
-**Description:** Developed multinomial logit regression and multi-layer neural networks to predict travel mode choices from 200M+ trip records. Optimized parameters to improve accuracy (MSE 0.0026, KL divergence 0.024), supporting cost-benefit planning for smart city transport.  
+**Description:** Developed multinomial logit regression and multi-layer neural networks to predict travel mode choices from 200M+ trip records, supporting cost-benefit planning for smart city transport.  
 **Tech Stack:** Python, scikit-learn, TensorFlow/Keras  
 [View Project](https://github.com/julianne168/smart-city-transport-mode-choice)
 
